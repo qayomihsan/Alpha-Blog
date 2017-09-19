@@ -1,0 +1,19 @@
+current directory: /home/qayomihsan/Desktop/Project/RubyOnRails/aipha-blog/vendor/bundle/gems/byebug-9.1.0/ext/byebug
+/usr/bin/ruby -r ./siteconf20170919-13477-fophv4.rb extconf.rb
+creating Makefile
+
+current directory: /home/qayomihsan/Desktop/Project/RubyOnRails/aipha-blog/vendor/bundle/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/qayomihsan/Desktop/Project/RubyOnRails/aipha-blog/vendor/bundle/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/qayomihsan/Desktop/Project/RubyOnRails/aipha-blog/vendor/bundle/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20170919-13477-d7s6x1/byebug
